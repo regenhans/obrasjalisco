@@ -1,0 +1,66 @@
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba2"
+	},
+	"obra": "POZO DE AGUA EN TEPOZAL DE MIRANDA EN EL MUNICIPIO DE ENCARNACION DE DIAZ",
+	"contrato": "001.01/2008-SEDEUR-DGOP-INV-REG -19-TX",
+	"presupuesto": 580000.0,
+	"descripcion": "CONSTRUCCION",
+	"id_obra": "9556",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba3"
+	},
+	"obra": "HOSPITAL SAN MARTIN DE LAS FLORES, TLAQUEPAQUE, JALISCO.",
+	"contrato": "001.01/2008-SEDEUR-DGOP-OBRAS-SOC-01-TX",
+	"presupuesto": 1.74e+07,
+	"descripcion": "CONSTRUCCION",
+	"id_obra": "9581",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba4"
+	},
+	"obra": "CONSTRUCCION DE CENTRAL DE BOMBEROS EN EL MUNICIPIO DE JAMAY, JALISCO",
+	"contrato": "001.01/2008-SEDEUR-DGOP-OBRAS-SOC-02-TX",
+	"presupuesto": 580000.0,
+	"descripcion": "CONSTRUCCION",
+	"id_obra": "9561",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba5"
+	},
+	"obra": "HOSPITAL PRIMER CONTACTO, SEGUNDA ETAPA EN EL MUNICIPIO DE SAN GABRIEL.",
+	"contrato": "001.01/2008-SEDEUR-DGOP-OBRAS-SOC-05-TX",
+	"presupuesto": 2.9e+06,
+	"descripcion": "CONSTRUCCION",
+	"id_obra": "9572",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba6"
+	},
+	"obra": "CONSTRUCCION DE HOSPITAL DE PRIMER CONTACTO EN EL MUNICIPIO DE ATOTONILCO EL ALTO, JALISCO",
+	"contrato": "001.01/2008-SEDEUR-DGOP-OBRAS-SOC-07-TX",
+	"presupuesto": 5.8e+06,
+	"descripcion": "CONSTRUCCION",
+	"id_obra": "9590",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba7"
+	},
+	"obra": "PROYECTO TOPOGRAFICO, GEOMETRICO Y ESTRUCTURAL PARA EL 2DO. PISO DEL BOULEVARD PERIFERICO (OPCIÓN 2) EN EL MUNICIPIO DE TLAQUEPAQUE Y TONALA",
+	"contrato": "001.01/2008-SEDEUR-DGPOP-EST-PROY-IC-AX",
+	"presupuesto": 1.4835e+07,
+	"descripcion": "SERVICIOS DE CONSULTORÍAS,  ASESORÍA, ESTUDIOS E INVESTIGACIONES PARA LA  ELABORACIÓN DEL \"PROYECTO TOPOGRÁFICO, GEOMÉTRICO Y ESTRUCTURAL, PARA EL BOULEVARD PERIFÉRICO, MEDIANTE ESTRUCTURAS EN DOS NIVELES DESDE EL ENTRONQUE CHAPALA Y HASTA LA AV. TONALTECAS SUR, EN LOS MUNICIPIOS DE TLAQUEPAQUE Y TONALA, JALISCO.",
+	"id_obra": "9642",
+	"estatus": "Terminada"
+}

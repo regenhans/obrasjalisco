@@ -1,0 +1,77 @@
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba8"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "001.02/2007-SEDEUR-DGOP-CDJUD-AX",
+	"presupuesto": 2.1114e+07,
+	"descripcion": "ESTUDIOS Y SERVICIOS DE CONSULTORÍA, PARA LA REALIZACIÓN DEL PROYECTO EJECUTIVO ARQUITECTÓNICO DE LA CIUDAD JUDICIAL, UBICADA EN ZAPOPAN, JAL.",
+	"id_obra": "11251",
+	"estatus": "Terminada"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7ba9"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "001.06/2007-SEDEUR-DGOP-CDJUD-LP",
+	"presupuesto": 9.531716119e+07,
+	"descripcion": "CONSTRUCCIÓN DE LA CIMENTACIÓN Y DE LA ESTRUCTURA DEL NIVEL INFERIOR (ESTACIONAMIENTO) DEL EDIFICIO DE LA CIUDAD JUDICIAL DEL ESTADO DE JALISCO.",
+	"id_obra": "9568",
+	"estatus": "Terminada"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7baa"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "001.09/2007-SEDEUR-DGOP-CDJUD-LP",
+	"presupuesto": 4.447807589e+07,
+	"descripcion": "OBRA PARA LA ELABORACIÓN DE LA ALBAÑILERÍA Y ACABADOS EN PLANTA BAJA DE LA CIUDAD JUDICIAL.",
+	"id_obra": "9569",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7bab"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "001.35/2007-SEDEUR-DGOP-CDJUD-LP",
+	"presupuesto": 5.44059272e+06,
+	"descripcion": "OBRA ELÉCTRICA PARA EL SEGUNDO NIVEL DE LA CIUDAD JUDICIAL (CUARTA ETAPA).",
+	"id_obra": "9558",
+	"estatus": "Terminada"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7bac"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "001.55/2007-SEDEUR-DGOP-CDJUD-AX",
+	"presupuesto": 1.52323462e+06,
+	"descripcion": "\"INSTALACIÓN ELÉCTRICA, ILUMINACIÓN Y AIRE ACONDICIONADO PARA EL JUZGADO 33 EN CIUDAD JUDICIAL\"",
+	"id_obra": "9571",
+	"estatus": "En Proceso"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7bad"
+	},
+	"obra": "CONSTRUCCIÓN DE LA CIUDAD JUDICIAL, UBICADO EN ZAPOPAN, JALISCO.",
+	"contrato": "SIOP-CDJUD-AD-133-125-01/13",
+	"presupuesto": 1.26774174e+06,
+	"descripcion": "CIUDAD JUDICIAL (REVISIÓN, CONFIGURACIÓN PRUEBAS Y ARRANQUE SISTEMAS DATOS Y VOZ, CCTV, UPS)",
+	"id_obra": "8870",
+	"estatus": "Terminada"
+}
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7bae"
+	},
+	"obra": "DESARROLLO DEL PROYECTO DE LA CIUDAD JUDICIAL.",
+	"contrato": "SIOP-CONS-CI-237-229-01/13",
+	"presupuesto": 1.57001705e+06,
+	"descripcion": "CONSTRUCCIÓN DE LA CIUDAD JUDICIAL, UBICADO EN ZAPOPAN, JALISCO. TRABAJOS DE MANTENIMIENTO Y REMOZAMIENTO EN CIUDAD JUDICIAL.",
+	"id_obra": "9133",
+	"estatus": "Terminada"
+}

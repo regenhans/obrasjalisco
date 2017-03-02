@@ -1,0 +1,11 @@
+{
+	"_id": {
+		"$oid": "58b8459a1d44b65ad8fb7baf"
+	},
+	"obra": "CENTRO INTEGRAL DE JUSTICIA REGIONAL EN OCOTLAN",
+	"contrato": "001.02/2006-SEDEUR-DGOP-IR-AD",
+	"presupuesto": 965650.55,
+	"descripcion": "CONSTRUCCIÓN  DE DOS TORRES  DE VIGILANCIA EN EL CEINJURE DE OCOTLÁN, JALISCO.",
+	"id_obra": "10715",
+	"estatus": "Terminada"
+}
